@@ -1,0 +1,2 @@
+# SOC
+speech emotion recognition
